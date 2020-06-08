@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "Training",
       "projectName": "Training",
-      "projectPath": "C:\\Users\\milnol01\\Documents\\UiPath\\Training\\.local",
+      "projectPath": "C:\\Users\\milnol01\\Documents\\GitHub\\Uipath\\Training\\.local",
       "packagesPath": "C:\\Users\\milnol01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milnol01\\Documents\\UiPath\\Training\\.local"
+      "outputPath": "C:\\Users\\milnol01\\Documents\\GitHub\\Uipath\\Training\\.local"
     },
     "frameworks": {
       "net461": {
